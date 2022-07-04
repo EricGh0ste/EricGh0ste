@@ -1,4 +1,4 @@
 - 👋 Hi, I’m void*
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning -> C# Sockets
-- 📫 How to reach me -> void*#8761
+- 🌱 I’m currently learning -> Assembler & Reverse Engineering
+- 📫 How to reach me -> nullptr#0110
