@@ -1,4 +1,4 @@
-- 👋 Hi, I’m void*
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning -> Assembler & Reverse Engineering
 - 📫 How to reach me -> nullptr#0110
